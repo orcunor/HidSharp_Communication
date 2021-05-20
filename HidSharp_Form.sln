@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidSharp_Form", "HidSharp_Form\HidSharp_Form.csproj", "{76665565-57CC-40D7-8FD2-FECB39D2E2D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76665565-57CC-40D7-8FD2-FECB39D2E2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76665565-57CC-40D7-8FD2-FECB39D2E2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76665565-57CC-40D7-8FD2-FECB39D2E2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76665565-57CC-40D7-8FD2-FECB39D2E2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42A9839E-242B-4441-AD99-3904FFB2BF2D}
+	EndGlobalSection
+EndGlobal
