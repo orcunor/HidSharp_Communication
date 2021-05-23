@@ -4,7 +4,7 @@ you have to implement hidsharp.dll in your app to references
 İt's simple to do that you can do that like this write this command on Package Nuget Console:
  Install-Package HidSharp
  
- 
+ In this project, there is an example of reading from buffer in a synchronous and asynchronous way.
  
 
 Here is the sample code:
