@@ -5,7 +5,7 @@ you have to implement hidsharp.dll in your app to references
  Install-Package HidSharp
  
  In this project, there is an example of reading from buffer in a synchronous and asynchronous way.
- 
+ If you want to reach the documentation about the Hidsharp library, you can look at the HidSharp Documentation in TR.pdf file.
 
 Here is the sample code:
  
